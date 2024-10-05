@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "sScorrer",
+    "slug": "sScorrer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/snooker.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ijlalatif.sScorrer"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "69325599-e276-4bd9-8520-1ad838a910a4"
+      }
+    }
+  }
+}
