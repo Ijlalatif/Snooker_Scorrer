@@ -33,6 +33,23 @@ Install Dependencies:
 
 npm install
 
+**SCREEN_SHOTS**
+![WhatsApp Image 2024-10-15 at 7 47 34 PM](https://github.com/user-attachments/assets/507ffc7c-e9f6-43c5-89f6-f3485fcf7e6e)
+
+
+![WhatsApp Image 2024-10-15 at 7 47 33 PM (2)](https://github.com/user-attachments/assets/825944af-5ff4-4d45-9fde-66724a4e8dcb)
+
+
+
+
+![WhatsApp Image 2024-10-15 at 7 47 33 PM (1)](https://github.com/user-attachments/assets/5ed1e81f-1e43-4884-8b0a-ab5447d594e7)
+
+![WhatsApp Image 2024-10-15 at 7 47 33 PM](https://github.com/user-attachments/assets/66199484-4503-4445-86d0-418481091034)
+
+
+![WhatsApp Image 2024-10-15 at 7 47 32 PM](https://github.com/user-attachments/assets/c12a70bf-32f2-4be8-8f83-95d9152905e2)
+
+
 Run the Application:
 
 expo start
