@@ -22,6 +22,7 @@ The Snooker Score Counter is a mobile application developed using React Native w
 **Local Storage**: To store user scores and match history, ensuring data persistence and easy access.
 
 **Installation Steps ⚙️**
+
 Clone the Repository:
 
 Navigate to the Project Directory:
